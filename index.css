@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+
+.content{
+    height: 100vh;
+}
+
+.blue{
+    background-color: blue;
+    margin: 10px;
+    border: 1px solid black;
+}
+
+.flex{display:flex}
+.flex.column {flex-direction:column}
+.flex-1{flex:1}
+.flex-3{flex:3}
+.flex-8{flex:8}
